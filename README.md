@@ -20,3 +20,10 @@ conclusion:the mobile inventory application developed in Java represents a compr
 By leveraging Java's robust architecture, the application ensures secure access to inventory data, integrates smoothly with backend systems, and offers scalability to accommodate evolving business needs. The inclusion of features such as offline mode, inventory alerts, and customizable reporting further enhances its usability and value proposition.
 
 Ultimately, the Java-based mobile inventory application enables businesses to optimize inventory control, minimize stockouts, and improve overall operational efficiency, thereby contributing to increased productivity and profitability. It stands as a testament to the power of Java technology in delivering practical and innovative solutions to modern business challenges.
+used pictures:![1000_F_317465765_3dqiYi0VM852ISXLOworY69JF0ybkald-removebg-preview](https://github.com/NarenderReddi/COD-level3_task4/assets/169530334/27860d31-7855-4c5d-b0f0-fd79ec7bbf83)
+
+
+![account-login-flat-illustration-vector-removebg-preview (1)](https://github.com/NarenderReddi/COD-level3_task4/assets/169530334/ff70c276-fb01-4b87-8391-6d5862f81dc6)
+
+![images-removebg-preview](https://github.com/NarenderReddi/COD-level3_task4/assets/169530334/50d3736f-3d1a-4e2e-810d-39bff9ab3a5d)
+![Screenshot_2024-05-20_203555-removebg-preview](https://github.com/NarenderReddi/COD-level3_task4/assets/169530334/eb981878-ac4a-469a-9dac-e1960c9b83a6)
